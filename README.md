@@ -1,3 +1,3 @@
 To start project run
 
-### `npm start` and it will open on `http://localhost:3100`
+### `npm i` then `npm start` and it will open on `http://localhost:3100`
